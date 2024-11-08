@@ -18,7 +18,7 @@ This project implements the **Lempel-Ziv-Welch (LZW)** algorithm for data compre
 ## Installation
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/yourusername/LZW-Compression.git
+    git clone https://github.com/lamoro8800/LZW-Compression.git
     cd LZW-Compression
     ```
 
